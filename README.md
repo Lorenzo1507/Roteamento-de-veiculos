@@ -1,2 +1,2 @@
 # Roteamento-de-veiculos
-Algoritmos genéticos
+Algoritmos genéticos. Jogar código no replit ou no google colab.
