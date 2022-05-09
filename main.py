@@ -141,12 +141,6 @@ print("custo: ", custo)
 lista_global_deVans= [i for i in range(1, vans+1)]
 tamanho_melhorCaminho = 0
 
-# Size of tournament pool
-tournament_size = 7
-
-# Prioritizes packages
-PriotrityPackages = False
-
 #conjunto de indivíduos
 tamanho_populacao = 3
 tx_mutacao = 0.50
